@@ -5,3 +5,4 @@
 echo "This is a new file created by script2.sh" > outputfile.txt
 echo "The script executed successfully!" >> outputfile.txt
 cat outfile.txt
+echo 'Rebased feature added'
